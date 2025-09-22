@@ -1,0 +1,18 @@
+<?php
+//conversion fichier
+?>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Navigation</title>
+</head>
+<body>
+    <h1>Bienvenue sur la page du club !</h1> 
+    <p>Parcourez nos victoires</p>
+    <ul>grandes courses<li></li>
+    <li>semi</li>
+    <li>10km ou moins</li></ul>
+    
+</body>
+</html>
